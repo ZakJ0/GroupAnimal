@@ -1,7 +1,7 @@
 package se.GroupAnimal;
 
 public interface Animal {
-    void makeSound();
+    String makeSound();
     void run();
     void sleep();
 }

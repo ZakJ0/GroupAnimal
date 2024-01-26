@@ -45,7 +45,7 @@ public class Main {
 
     public static void printAnimalSounds(ArrayList<Animal> animals) {
         for (Animal a : animals) {
-            a.makeSound();
+            System.out.println(a.makeSound());
         }
     }
 }

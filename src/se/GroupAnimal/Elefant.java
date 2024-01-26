@@ -23,8 +23,8 @@ public class Elefant implements Animal{
     }
 
     @Override
-    public void makeSound() {
-        System.out.println("Pawooooo!");
+    public String makeSound() {
+        return "Pawooooo!";
     }
 
     @Override

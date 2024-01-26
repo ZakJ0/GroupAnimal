@@ -42,8 +42,8 @@ public class Wolf implements Animal{
     }
 
     @Override
-    public void makeSound() {
-        System.out.println("Awooooooo");
+    public String makeSound() {
+        return "Awooooooo";
     }
 
     @Override

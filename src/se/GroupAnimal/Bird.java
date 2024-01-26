@@ -43,8 +43,8 @@ public class Bird implements Animal, Insurable{
     }
 
     @Override
-    public void makeSound() {
-        System.out.println("Khaa Khaa!");
+    public String makeSound() {
+        return "Khaa Khaa!";
     }
 
     @Override

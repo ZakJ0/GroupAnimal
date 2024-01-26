@@ -1,6 +1,7 @@
-package se.GroupAnimal;
+package test;
 
 import org.junit.jupiter.api.Test;
+import se.GroupAnimal.Computer;
 
 import static org.junit.jupiter.api.Assertions.*;
 

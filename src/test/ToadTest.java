@@ -1,6 +1,8 @@
-package se.GroupAnimal;
+package test;
 
 import org.junit.jupiter.api.Test;
+import se.GroupAnimal.Toad;
+
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 import static org.junit.jupiter.api.Assertions.*;

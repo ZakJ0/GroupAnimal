@@ -15,8 +15,8 @@ public class Dog implements Animal, Insurable {
     }
 
     @Override
-    public void makeSound() {
-        System.out.println(this.getName() + " does Woof! Woof!");
+    public String makeSound() {
+        return this.getName() + " does Woof! Woof!";
     }
 
     @Override

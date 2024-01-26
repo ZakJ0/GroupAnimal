@@ -5,36 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5a66acd-6fbc-4583-993c-0974e4f28a3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/se/GroupAnimal/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ToasterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/WolfTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/GroupAnimal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GroupAnimal.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GroupAnimal/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GroupAnimal/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Bird.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Cow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Cow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Elefant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Elefant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Horse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Horse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Squirrel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Squirrel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Toad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Toad.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Wolf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GroupAnimal/se/GroupAnimal/Wolf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Cow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Elefant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Elefant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Horse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Personne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Personne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Senior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Senior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Squirrel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Squirrel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Toad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Toad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Wolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Wolf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GroupAnimal/test/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GroupAnimal/test/StudentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GroupAnimal/test/ToasterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GroupAnimal/test/ToasterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GroupAnimal/test/WolfTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GroupAnimal/test/WolfTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Dentist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Dentist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/se/GroupAnimal/Engineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/se/GroupAnimal/Engineer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/StudentTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -80,8 +61,8 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.19293821",
     "project.structure.side.proportion": "0.27637443",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "vue.rearranger.settings.migration": "true"
@@ -95,7 +76,7 @@
       <recent name="se.GroupAnimal" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StudentTest and 2 more">
+  <component name="RunManager">
     <configuration name="StudentTest and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GroupAnimal" />
       <option name="TEST_OBJECT" value="pattern" />
@@ -144,7 +125,7 @@
       <workItem from="1706272637470" duration="431000" />
       <workItem from="1706273108940" duration="10000" />
       <workItem from="1706273210320" duration="141000" />
-      <workItem from="1706273484996" duration="1971000" />
+      <workItem from="1706273484996" duration="5248000" />
     </task>
     <servers />
   </component>

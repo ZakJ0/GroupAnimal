@@ -10,8 +10,8 @@ public class Engineer implements Person {
     }
 
     @Override
-    public void greet() {
-        System.out.println("Hello, I'm an engineer!");
+    public String greet() {
+        return "Hello, I'm an engineer!";
     }
 
     @Override

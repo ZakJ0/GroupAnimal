@@ -11,8 +11,8 @@ public class Dentist implements Person{
     }
 
     @Override
-    public void greet() {
-        System.out.println("Hi there! I'm a dentist :)");
+    public String greet() {
+        return "Hi there! I'm a dentist :)";
     }
 
     @Override

@@ -4,6 +4,8 @@ import org.junit.jupiter.api.Test;
 import se.GroupAnimal.Student;
 
 import static org.junit.jupiter.api.Assertions.*;
+import static org.mockito.Mockito.*;
+
 /**
  * En testklass för studentklassen
  *

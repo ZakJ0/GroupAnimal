@@ -71,5 +71,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="google.code.maven.play.plugin.eamelink.mockito.all" level="application" />
+    <orderEntry type="library" name="springframework.data.spring.jpa" level="application" />
   </component>
 </module>

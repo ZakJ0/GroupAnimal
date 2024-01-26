@@ -62,8 +62,8 @@ public class Senior implements Person{
     }
 
     @Override
-    public void greet() {
-        System.out.println("hello, *aah!*\nMy back hurts!");
+    public String greet() {
+        return "hello, *aah!*\nMy back hurts!";
     }
 
     @Override

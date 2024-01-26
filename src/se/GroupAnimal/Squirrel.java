@@ -74,8 +74,8 @@ public class Squirrel implements Animal{
     }
 
     @Override
-    public void makeSound() {
-        System.out.println("Squeak! Im a Squirrel!");
+    public String makeSound() {
+        return "Squeak! Im a Squirrel!";
     }
 
     @Override

@@ -23,8 +23,8 @@ public class Horse implements Animal{
     }
 
     @Override
-    public void makeSound() {
-        System.out.println("Whiiiiinny!");
+    public String makeSound() {
+        return "Whiiiiinny!";
     }
 
     @Override

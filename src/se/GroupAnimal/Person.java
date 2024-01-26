@@ -1,6 +1,6 @@
 package se.GroupAnimal;
 
 public interface Person {
-    void greet();
+    String greet();
     void sayBye();
 }

@@ -34,8 +34,8 @@ public class Personne implements Person{
     }
 
     @Override
-    public void greet() {
-        System.out.println("Hello");
+    public String greet() {
+        return "Hello";
     }
 
     @Override

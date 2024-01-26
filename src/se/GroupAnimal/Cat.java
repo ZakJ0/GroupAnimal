@@ -84,8 +84,8 @@ public class Cat implements Animal,Insurable{
     }
 
     @Override
-    public void makeSound() {
-        System.out.println("meow!!!!");
+    public String makeSound() {
+        return "meow!!!!";
     }
 
     @Override

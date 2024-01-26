@@ -7,8 +7,8 @@ package se.GroupAnimal;
 
 public class Toad implements Animal{
     @Override
-    public void makeSound() {
-        System.out.println("Ribbit Ribbit");
+    public String makeSound() {
+        return "Ribbit Ribbit";
     }
 
     @Override

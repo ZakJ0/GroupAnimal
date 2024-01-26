@@ -53,8 +53,8 @@ public class Student implements Person, Insurable{
     }
 
     @Override
-    public void greet() {
-        System.out.println("Tjena");
+    public String greet() {
+        return "Tjena";
     }
 
     @Override

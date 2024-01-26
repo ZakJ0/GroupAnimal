@@ -1,6 +1,6 @@
 package se.GroupAnimal;
 
-public interface Insurable {
-    void calculateMonthlyPayment();
-    void calcualteDeductable();
+public interface    Insurable {
+    double calculateMonthlyPayment();
+    double calcualteDeductable();
 }

@@ -1,5 +1,10 @@
 package se.GroupAnimal;
-
+/**
+ * En glasögonklass som implementerar Insurable
+ *
+ * @version	0.1 2024-01-26
+ * @author	Johannes Randén
+ */
 public class Glasses implements Insurable{
     private double marketPrice;
     private String type;

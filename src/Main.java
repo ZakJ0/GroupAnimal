@@ -24,6 +24,18 @@ public class Main {
 
         Insurable toaster = new Toaster("filips", 300, 5);
         printInsuranceCost(toaster);
+
+        Person dentist = new Dentist("Anne");
+        Person engineer = new Engineer("Bob");
+        Person developer = new Developer("Charlie");
+
+        System.out.println();
+        sayHello(dentist);
+        sayHello(engineer);
+        sayHello(developer);
+
+        Animal dog = new Dog("Bruno", "Golden Retriever");
+        sleeping(dog);
     }
 
     public static void pay(Insurable in) {
@@ -47,5 +59,12 @@ public class Main {
         for (Animal a : animals) {
             a.makeSound();
         }
+    }
+
+    public static void sayHello(Person p) {
+        p.greet();
+    }
+    public static void sleeping(Animal a) {
+        a.sleep();
     }
 }

@@ -1,5 +1,12 @@
 package se.GroupAnimal;
 
+/**
+ * En fågelklass som implementerar Animal och Insurable
+ *
+ * @version	0.1 2024-01-26
+ * @author	Johannes Randén
+ */
+
 public class Bird implements Animal, Insurable{
     private int age;
     private String type;

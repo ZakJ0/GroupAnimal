@@ -1,4 +1,10 @@
 package se.GroupAnimal;
+/**
+ * En brödrostklass som implementerar Insurable
+ *
+ * @version	0.1 2024-01-26
+ * @author	Johannes Randén
+ */
 
 public class Toaster implements Insurable{
     private String name;

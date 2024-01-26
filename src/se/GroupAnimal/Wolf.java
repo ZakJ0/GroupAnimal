@@ -1,5 +1,11 @@
 package se.GroupAnimal;
 
+/**
+ * En vargklass som implementerar Animal
+ *
+ * @version	0.1 2024-01-26
+ * @author	Johannes Randén
+ */
 public class Wolf implements Animal{
     private String name;
     private int age;

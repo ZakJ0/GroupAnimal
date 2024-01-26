@@ -11,6 +11,17 @@ public class Main {
         speed(Elphant);
         greetings(p1);
         pay(in);
+        Animal wolf = new Wolf("Buster", 4, "Canada");
+        Animal bird = new Bird(4, "Hummingbird", "sqwaky");
+
+        ArrayList<Animal> animals = new ArrayList<>();
+        animals.add(wolf);
+        animals.add(bird);
+
+        printAnimalSounds(animals);
+
+        Insurable toaster = new Toaster("filips", 300, 5);
+        printInsuranceCost(toaster);
     }
     public static void pay(Insurable in){
         in.calculateMonthlyPayment();
@@ -20,5 +31,14 @@ public class Main {
     }
     public static void greetings(Person p1){
         p1.greet();
+    }
+    public static void printInsuranceCost(Insurable insurable){
+        System.out.println("Monthly cost: " + insurable.calculateMonthlyPayment()
+                + " kr\nDeductable: " + insurable.calcualteDeductable() + " kr");
+    }
+    public static void printAnimalSounds(List<Animal> animals){
+        for (Animal a : animals){
+            a.makeSound();
+        }
     }
 }
